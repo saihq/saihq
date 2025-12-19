@@ -1,16 +1,20 @@
-## Hi there 👋
+## Hi, I'm Sai
 
-<!--
-**saihq/saihq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an indie developer interested in desktop applications, software
+architecture and building tools meant for daily use.
 
-Here are some ideas to get you started:
+I enjoy working on long-term, thoughtful projects with a focus on
+simplicity, performance and user comfort.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Current focus
+- Orbit Browser — a calm, personal desktop web browser (Windows-first)
+- UI foundations and product design
+- Desktop app architecture
+
+### Principles
+- Build slowly and intentionally
+- Comfort over hype
+- Personal software over mass-market products
+
+### Notes
+This profile reflects ongoing work and experimentation.
