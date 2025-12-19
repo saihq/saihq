@@ -21,10 +21,12 @@ This profile reflects ongoing work and experimentation.
 
 ---
 
-### Tools & Technologies
+### Software & Desktop Stack
 
-![HTML](https://img.shields.io/badge/HTML-555?style=flat&logo=html5)
-![CSS](https://img.shields.io/badge/CSS-555?style=flat&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-555?style=flat&logo=javascript)
+Used primarily for desktop applications and UI layers.
+
 ![Rust](https://img.shields.io/badge/Rust-555?style=flat&logo=rust)
 ![Python](https://img.shields.io/badge/Python-555?style=flat&logo=python)
+![JavaScript](https://img.shields.io/badge/JavaScript-555?style=flat&logo=javascript)
+![HTML](https://img.shields.io/badge/HTML-555?style=flat&logo=html5)
+![CSS](https://img.shields.io/badge/CSS-555?style=flat&logo=css3)
