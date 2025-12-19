@@ -27,3 +27,4 @@ This profile reflects ongoing work and experimentation.
 ![CSS](https://img.shields.io/badge/CSS-555?style=flat&logo=css3)
 ![JavaScript](https://img.shields.io/badge/JavaScript-555?style=flat&logo=javascript)
 ![Rust](https://img.shields.io/badge/Rust-555?style=flat&logo=rust)
+![Python](https://img.shields.io/badge/Python-555?style=flat&logo=python)
