@@ -18,3 +18,12 @@ simplicity, performance and user comfort.
 
 ### Notes
 This profile reflects ongoing work and experimentation.
+
+---
+
+### Tools & Technologies
+
+![HTML](https://img.shields.io/badge/HTML-555?style=flat&logo=html5)
+![CSS](https://img.shields.io/badge/CSS-555?style=flat&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-555?style=flat&logo=javascript)
+![Rust](https://img.shields.io/badge/Rust-555?style=flat&logo=rust)
