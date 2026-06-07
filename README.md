@@ -1,83 +1,40 @@
 <div align="center">
 
-# Daniel Rodriguez
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=32&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Sai;Indie+Developer;Building+Software+People+Enjoy+Using" />
 
-Building software, tools and digital experiences.
+<br>
 
-Focused on creating products that are simple, fast and enjoyable to use.
+<p>
+  Building desktop applications, developer tools and thoughtful digital products.
+</p>
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=grey" />
 
 </div>
 
 ---
 
-## About
+## ✦ About
 
-I'm a developer interested in:
+I'm an indie developer focused on creating software that feels calm, fast and enjoyable to use.
+
+My interests include:
 
 - Desktop applications
-- Modern web products
-- UI/UX design
 - Software architecture
+- UI / UX design
 - Developer tools
+- Personal software
 
-I enjoy building projects from scratch and turning ideas into polished products.
-
----
-
-## Current Projects
-
-### Personal Platform
-A social-style personal website where I can share photos, thoughts and projects.
-
-### Minecraft Tools
-Utilities and tools for builders, map artists and survival planning.
-
-### Desktop Applications
-Exploring modern desktop experiences with a focus on performance and usability.
+I enjoy building long-term projects with an emphasis on simplicity, performance and user comfort.
 
 ---
 
-## Tech Stack
+## 🚀 Current Focus
 
-<div align="center">
-
-![TypeScript](https://img.shields.io/badge/TypeScript-111827?style=for-the-badge&logo=typescript)
-![React](https://img.shields.io/badge/React-111827?style=for-the-badge&logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-111827?style=for-the-badge&logo=nextdotjs)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-111827?style=for-the-badge&logo=tailwindcss)
-
-![Python](https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python)
-![Rust](https://img.shields.io/badge/Rust-111827?style=for-the-badge&logo=rust)
-![Git](https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github)
-
-</div>
-
----
-
-## Philosophy
-
-> Build things that people actually enjoy using.
-
-- Simplicity over complexity
-- Quality over quantity
-- Long-term thinking
-- Clean interfaces
-- Fast experiences
-
----
-
-## Currently Learning
-
-- Advanced React patterns
-- Product design
-- System architecture
-- Modern desktop development
-
----
-
-<div align="center">
-
-*"Great software feels invisible."*
-
-</div>
+```txt
+Orbit Browser
+├─ Windows-first desktop browser
+├─ Personal browsing experience
+├─ Modern UI foundations
+└─ Performance-focused architecture
