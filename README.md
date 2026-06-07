@@ -1,133 +1,111 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:1a1a2e&height=200&section=header&text=Sai&fontSize=80&fontColor=ffffff&fontAlignY=38&desc=indie%20developer%20%E2%80%94%20desktop%20apps%20%26%20thoughtful%20software&descAlignY=58&descSize=16&descColor=888888&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:1a1a2e,100:0d0d0d&height=220&section=header&text=Hi,%20I'm%20Sai&fontSize=62&fontColor=ffffff&fontAlignY=40&desc=indie%20developer%20%E2%80%94%20desktop%20apps%20%26%20thoughtful%20software&descAlignY=60&descSize=15&descColor=888888&animation=fadeIn" width="100%"/>
 
 </div>
 
----
+<br/>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=3000&pause=800&color=888888&center=true&vCenter=true&multiline=true&repeat=true&width=500&height=60&lines=Building+Orbit+Browser+%E2%80%94+a+calm+personal+browser;Desktop+app+architecture+%26+UI+foundations;Comfort+over+hype.+Personal+software+first.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=3200&pause=900&color=7F77DD&center=true&vCenter=true&multiline=false&repeat=true&width=520&height=32&lines=Building+Orbit+Browser+%E2%80%94+a+calm+personal+browser+%E2%96%A6;Desktop+app+architecture+%26+UI+foundations+%E2%96%A6;Comfort+over+hype.+Personal+software+first.+%E2%96%A6)](https://git.io/typing-svg)
 
 </div>
 
+<br/>
+
 ---
 
-## `whoami`
+## `$ whoami`
 
 ```
-┌─────────────────────────────────────────────────┐
-│  Name     → Sai                                 │
-│  Role     → Indie developer                     │
-│  Focus    → Desktop apps · UI · Architecture    │
-│  Approach → Slow, intentional, deliberate       │
-│  Status   → Building something calm             │
-└─────────────────────────────────────────────────┘
+┌──────────────────────────────────────────────────────┐
+│  name      →  Sai                                    │
+│  role      →  Indie developer                        │
+│  focus     →  Desktop apps · UI · Architecture       │
+│  approach  →  Slow, intentional, deliberate          │
+│  status    →  Building something calm  ✦             │
+└──────────────────────────────────────────────────────┘
 ```
 
-I make software meant for daily use — tools that prioritize comfort, simplicity and long-term craft over trend-chasing. I enjoy thoughtful, long-term projects where the details actually matter.
+I make software meant for daily use — tools that prioritize **comfort**, **simplicity** and **long-term craft** over trend-chasing.
+I enjoy thoughtful, long-term projects where the details actually matter.
+
+<br/>
 
 ---
 
-## `./current --projects`
+## `$ ./projects --current`
 
-<table>
-<tr>
-<td width="52">
+<br/>
 
-**`01`**
+**`01` — Orbit Browser** &nbsp; ![Status](https://img.shields.io/badge/status-active-1D9E75?style=flat-square&labelColor=0d0d0d) ![Platform](https://img.shields.io/badge/platform-windows-7F77DD?style=flat-square&labelColor=0d0d0d)
 
-</td>
-<td>
+> A calm, personal desktop web browser. Built for people who want a browser that gets out of the way.
 
-### Orbit Browser
+<br/>
 
-A calm, personal desktop web browser. Windows-first. Built with care for people who want a browser that gets out of the way.
+**`02` — UI Foundations** &nbsp; ![Status](https://img.shields.io/badge/status-ongoing-EF9F27?style=flat-square&labelColor=0d0d0d)
 
-`active` `desktop` `windows`
+> Cohesive component systems and product design patterns for native desktop interfaces.
 
-</td>
-</tr>
-<tr>
-<td>
+<br/>
 
-**`02`**
+**`03` — Desktop Architecture** &nbsp; ![Status](https://img.shields.io/badge/status-research-888780?style=flat-square&labelColor=0d0d0d)
 
-</td>
-<td>
+> App structure patterns that are maintainable, performant, and pleasant to extend over time.
 
-### UI Foundations
-
-Researching and building cohesive component systems and product design patterns for native desktop interfaces.
-
-`ongoing` `ui` `design-systems`
-
-</td>
-</tr>
-<tr>
-<td>
-
-**`03`**
-
-</td>
-<td>
-
-### Desktop Architecture
-
-Exploring app structure patterns that are maintainable, performant, and pleasant to extend over time.
-
-`research` `architecture` `dx`
-
-</td>
-</tr>
-</table>
+<br/>
 
 ---
 
-## `./stack --show`
+## `$ ./stack --show`
 
 <div align="center">
 
-![Rust](https://img.shields.io/badge/Rust-0f0f0f?style=for-the-badge&logo=rust&logoColor=white)
-![Python](https://img.shields.io/badge/Python-0f0f0f?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-0f0f0f?style=for-the-badge&logo=javascript&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-0f0f0f?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-0f0f0f?style=for-the-badge&logo=css3&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-0d0d0d?style=for-the-badge&logo=rust&logoColor=ffffff)
+![Python](https://img.shields.io/badge/Python-0d0d0d?style=for-the-badge&logo=python&logoColor=ffffff)
+![JavaScript](https://img.shields.io/badge/JavaScript-0d0d0d?style=for-the-badge&logo=javascript&logoColor=ffffff)
+![HTML](https://img.shields.io/badge/HTML-0d0d0d?style=for-the-badge&logo=html5&logoColor=ffffff)
+![CSS](https://img.shields.io/badge/CSS-0d0d0d?style=for-the-badge&logo=css3&logoColor=ffffff)
 
 </div>
 
+<br/>
+
 ---
 
-## `./principles`
+## `$ cat principles.py`
 
 ```python
 class HowIBuild:
 
-    def approach(self):
-        return "slowly and intentionally"
+    approach = "slowly and intentionally"
 
-    def values(self):
-        return [
-            "comfort  > hype",
-            "personal > mass-market",
-            "craft    > speed",
-        ]
+    values = [
+        "comfort  > hype",
+        "personal > mass-market",
+        "craft    > speed",
+    ]
 
-    def goal(self):
-        return "software that earns a permanent place in daily life"
+    goal = "software that earns a permanent place in daily life"
 ```
+
+<br/>
 
 ---
 
-## `./stats`
+## `$ git log --oneline`
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=sai&show_icons=true&theme=dark&bg_color=0f0f0f&title_color=ffffff&text_color=888888&icon_color=ffffff&border_color=222222&hide_border=false&rank_icon=github&count_private=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sai&layout=compact&theme=dark&bg_color=0f0f0f&title_color=ffffff&text_color=888888&border_color=222222" />
+<img height="155" src="https://github-readme-stats.vercel.app/api?username=sai&show_icons=true&theme=dark&bg_color=0d0d0d&title_color=7F77DD&text_color=888888&icon_color=AFA9EC&border_color=1a1a1a&hide_border=false&count_private=true&rank_icon=github" />
+&nbsp;&nbsp;
+<img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sai&layout=compact&theme=dark&bg_color=0d0d0d&title_color=7F77DD&text_color=888888&border_color=1a1a1a&langs_count=5" />
 
 </div>
+
+<br/>
 
 ---
 
@@ -138,6 +116,8 @@ This profile reflects ongoing work and experimentation.
 Things shift as projects evolve. That's the point.
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:0f0f0f&height=100&section=footer&animation=fadeIn" width="100%"/>
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:1a1a2e,100:0d0d0d&height=120&section=footer&animation=fadeIn" width="100%"/>
 
 </div>
